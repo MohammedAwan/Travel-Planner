@@ -19,3 +19,13 @@ A travel Planner which leverages GPT's to generate intelligent travel itenerary.
   </p>
 
 # Usage
+1. Clone this repository to your local machine.
+2. Install the required dependencies:
+```
+pip install -r Requirements.txt
+```
+3. Run app.py using terminal
+```
+python app.py
+```
+4. The webpage will be hosted on localhost ie. 127.0.0.1:5000
