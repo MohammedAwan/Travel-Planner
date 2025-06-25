@@ -28,4 +28,4 @@ pip install -r Requirements.txt
 ```
 python app.py
 ```
-4. The webpage will be hosted on localhost ie. 127.0.0.1:5000
+4. The webpage will be hosted on http://localhost:5000
