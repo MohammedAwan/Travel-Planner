@@ -1,8 +1,18 @@
 # Travel-Planner
 A travel Planner which leverages GPT's to generate intelligent travel itinerary.
 
-# Screenshots
+# Description
+This project is a smart travel planning application built with Flask and powered by GPT. It allows users to generate personalized travel itineraries based on their destination, travel dates, preferences, and interests. By leveraging natural language processing, the app delivers tailored suggestions for activities, sightseeing spots, and daily schedules—making trip planning fast, interactive, and effortless.
 
+## Features:
+<ul>
+<li>AI-generated itineraries based on user input</li>
+<li>Simple and intuitive web interface using Flask</li>
+<li>Customizable travel preferences</li>
+<li>Responsive and interactive output</li>
+</ul>
+
+# Screenshots
   <p align="center">
   <img src="Screen Shots/1.jpg" alt="Home">
     <br><br>
